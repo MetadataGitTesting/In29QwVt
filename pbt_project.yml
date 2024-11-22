@@ -1,0 +1,57 @@
+name: joelle.koepp
+description: Public-key
+version: 3.7.203
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: joellekoepp
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:13:45'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:13:45'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:13:45.530912Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1333418951'
+  createdAt: '2024-11-22T20:13:45.530912Z'
+  type: plibMaven
+projectDependencies:
+  '182':
+    projectUID: 182
+    projectName: marlon.keebler
+    repositoryPath: gitUri=http://gitserver:3000/dev_yMLzoaGg_team_218/dev_yMLzoaGg_project_182.git&subPath=
+    version: marlon.keebler/0.9.2.679
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:13:44'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
